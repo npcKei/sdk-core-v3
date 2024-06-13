@@ -1,0 +1,24 @@
+@rollup/plugin-replace: 'preventAssignment' currently defaults to false. It is recommended to set this option to `true`, as the next major version will default this option to `true`.
+@rollup/plugin-replace: 'preventAssignment' currently defaults to false. It is recommended to set this option to `true`, as the next major version will default this option to `true`.
+⠙ Creating entry file
+[2K[1A[2K[G✓ Creating entry file 1.5 secs
+⠙ Building modules
+[2K[1A[2K[G⠹ Building modules
+[2K[1A[2K[G⠸ Building modules
+[2K[1A[2K[G⠼ Building modules
+[2K[1A[2K[G⠴ Building modules
+[2K[1A[2K[G⠦ Building modules
+[2K[1A[2K[G⠧ Building modules
+[2K[1A[2K[G⠇ Building modules
+[2K[1A[2K[G⠏ Building modules
+[2K[1A[2K[G⠋ Building modules
+[2K[1A[2K[G⠙ Building modules
+[2K[1A[2K[G⠹ Building modules
+[2K[1A[2K[G⠸ Building modules
+[2K[1A[2K[G⠼ Building modules
+[2K[1A[2K[G⠴ Building modules
+[2K[1A[2K[G⠦ Building modules
+[2K[1A[2K[G⠧ Building modules
+[2K[1A[2K[G⠇ Building modules
+[2K[1A[2K[G⠏ Building modules
+[2K[1A[2K[G✓ Building modules 7.6 secs
